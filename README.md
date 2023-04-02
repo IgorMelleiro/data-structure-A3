@@ -1,2 +1,2 @@
 # data-structure-A3
-An Java activitie
+A Java activitie
